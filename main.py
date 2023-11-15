@@ -80,7 +80,6 @@ def show():
 def main():
     create()
     insert()
-    print(tables)
     show()
 
 
